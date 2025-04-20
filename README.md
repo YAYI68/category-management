@@ -44,4 +44,4 @@ A REST API for managing hierarchical categories using NestJS and Prisma.
 
 ## API Documentation
 
-Swagger documentation is available at `/api` when the server is running.
+Swagger documentation is available at `http://localhost:3000/api` when the server is running.
